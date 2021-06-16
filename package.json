@@ -1,0 +1,23 @@
+{
+  "name": "trip-planner-app-rest-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wenmengliu/Trip-Planner-app-REST-API.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wenmengliu/Trip-Planner-app-REST-API/issues"
+  },
+  "homepage": "https://github.com/wenmengliu/Trip-Planner-app-REST-API#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongodb": "^3.6.9"
+  }
+}
